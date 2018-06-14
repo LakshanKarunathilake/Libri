@@ -1,0 +1,15 @@
+page-login {
+    .bg-image{
+        background-image: url('../assets/imgs/background-solo.png');
+        -webkit-background-image: url('assets/imgs/background-solo.png');
+       
+        background-repeat: no-repeat;
+        background-position: bottom;
+        background-size: contain;
+    }
+
+    #logo{
+        margin: 0 auto;
+        display: block;
+    }
+}
